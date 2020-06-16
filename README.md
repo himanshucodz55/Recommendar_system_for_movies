@@ -1,4 +1,4 @@
-# Recommendar_system_for_movies
+# Recommendation_system_for_movies
 
 ##### 1. movies rating prediction whether it is liked or not by peoples.i am using Boltzmann Machine algorithms to implement the recommendation system for movies rating predictions whether it is liked then model pridicts 1 or it is not liked then model pridicts 0.
 
